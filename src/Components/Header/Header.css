@@ -1,0 +1,129 @@
+/* Header */
+
+.header {
+	padding: 40px 0;
+  min-height: 60vh;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	background-color: var(--header-bg);
+	background-image: url('../../img/favpng_regular-polygon-polytope-geometry-icosagon.png');
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: center center;
+	/* background-color: rgb(2, 38, 15); */
+
+	color: var(--header-text);
+	text-align: center;
+}
+
+.header__wrapper {
+	padding: 0 15px;
+	/* max-width: 660px; */
+}
+
+.header__title {
+	margin-bottom: 20px;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 1.4;
+}
+
+.header__title strong {
+	font-size: 60px;
+	font-weight: 700;
+}
+
+.header__title em {
+	font-style: normal;
+	color: var(--accent);
+}
+
+.header__text {
+	margin-bottom: 40px;
+	font-size: 18px;
+	line-height: 1.333;
+}
+
+.header__text p + p {
+	margin-top: 0.5em;
+}
+
+.donwload-section{
+	display: flex;
+	flex-flow: column wrap;
+	gap: 25px;
+	align-items: center;
+	padding-top:10px;
+}
+
+.btn{
+width: 200px;
+}
+.qr{
+	margin-top: 0.5em;
+	width: 100px;
+	height: 100px;
+}
+
+.LinkedIn{
+	font-size: 18px;
+	line-height: 1.333;
+	letter-spacing: 1px;
+}
+
+.wrapper{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
+  .wrapper .static-txt{
+	color: #fff;
+	font-size: 60px;
+	font-weight: 400;
+  }
+  .wrapper .dynamic-txts{
+	margin-left: 10px;
+	height: 90px;
+	line-height: 10px;
+	overflow: hidden;
+  }
+  .dynamic-txts li{
+	list-style: none;
+	color: var(--accent);
+	font-size: 60px;
+	font-weight: 500;
+	position: relative;
+	top: 0;
+	animation: slide 4s steps(2) infinite;
+  }
+  @keyframes slide {
+	100%{
+	  top: -180px;
+	}
+  }
+  .dynamic-txts li span{
+	position: relative;
+	margin: 5px 0;
+	line-height: 90px;
+  }
+  .dynamic-txts li span::after{
+	content: "";
+	position: absolute;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: #343F4F;
+	border-left: 9px solid var(--accent);
+	animation: typing 2s steps(14) infinite;
+  }
+  @keyframes typing {
+	40%, 60%{
+	  left: calc(100% + 30px);
+	}
+	100%{
+	  left: 0;
+	}
+  }
