@@ -1,7 +1,7 @@
 import fafacebook from "../../img/icons/fafacebook.svg";
 import fainstagram from "../../img/icons/fainstagram.svg";
 import fatwitter from "../../img/icons/fatwitter.svg";
-import falinkedIn from "../../img/icons/falinkedIn.svg";
+import falinkedIn from "../../img/icons/falinkedin.svg";
 import fagithub from "../../img/icons/fagithub.svg";
 
 import React from "react";
