@@ -1,4 +1,4 @@
-import "./Styles/main.css";
+import "./Styles/main.scss";
 import Navline from "./Components/Navigation/Navline";
 import Footer from "./Components/Footer/Footer";
 import Home from "./Pages/Home";

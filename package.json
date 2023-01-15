@@ -19,11 +19,15 @@
     "@mui/icons-material": "^5.10.16",
     "@mui/material": "^5.10.17",
     "babel-plugin-macros": "^3.1.0",
+    "carousel": "^0.0.3",
+    "daisyui": "^2.46.1",
     "dotenv": "^16.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.4",
-    "shortid": "^2.2.16"
+    "sass": "^1.57.1",
+    "shortid": "^2.2.16",
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
     "@babel/cli": "^7.19.3",
@@ -33,6 +37,9 @@
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
     "@vitejs/plugin-react": "^2.2.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4",
     "vite": "^3.2.3"
   }
 }

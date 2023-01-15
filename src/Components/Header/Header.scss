@@ -1,12 +1,10 @@
-/* Header */
 
 .header {
 	padding: 40px 0;
   min-height: 60vh;
-
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: flex-start;
 
 	background-color: var(--header-bg);
 	background-image: url('../../img/favpng_regular-polygon-polytope-geometry-icosagon.png');
@@ -59,7 +57,7 @@
 	padding-top:10px;
 }
 
-.btn{
+.btnd{
 width: 200px;
 }
 .qr{
@@ -83,47 +81,15 @@ width: 200px;
 	color: #fff;
 	font-size: 60px;
 	font-weight: 400;
+	display: flex;
+	justify-content: center;
+	align-items: center;
   }
-  .wrapper .dynamic-txts{
-	margin-left: 10px;
-	height: 90px;
-	line-height: 10px;
-	overflow: hidden;
+
+  .carousel{
+	margin: 5% auto 0 auto;
+	border: 5px solid 5c62ec;
+	width: 50%;
+	height: 300px;
   }
-  .dynamic-txts li{
-	list-style: none;
-	color: var(--accent);
-	font-size: 60px;
-	font-weight: 500;
-	position: relative;
-	top: 0;
-	animation: slide 4s steps(2) infinite;
-  }
-  @keyframes slide {
-	100%{
-	  top: -180px;
-	}
-  }
-  .dynamic-txts li span{
-	position: relative;
-	margin: 5px 0;
-	line-height: 90px;
-  }
-  .dynamic-txts li span::after{
-	content: "";
-	position: absolute;
-	left: 0;
-	height: 100%;
-	width: 100%;
-	background: #343F4F;
-	border-left: 9px solid var(--accent);
-	animation: typing 2s steps(14) infinite;
-  }
-  @keyframes typing {
-	40%, 60%{
-	  left: calc(100% + 30px);
-	}
-	100%{
-	  left: 0;
-	}
-  }
+
