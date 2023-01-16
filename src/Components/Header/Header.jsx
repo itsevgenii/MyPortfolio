@@ -51,6 +51,7 @@ const Header = () => {
               src={project01}
               className="w-96 flex justify-center items-center m-auto "
             />
+            <a href="project/0" />
             <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
               <a href="#slide3" className="btn btn-circle">
                 ❮
@@ -69,6 +70,7 @@ const Header = () => {
               <a href="#slide1" className="btn btn-circle">
                 ❮
               </a>
+
               <a href="#slide3" className="btn btn-circle">
                 ❯
               </a>
@@ -89,6 +91,9 @@ const Header = () => {
             </div>
           </div>
         </div>
+        <a href="projects">
+          <h1 className="headingProjects"> Projects</h1>
+        </a>
       </div>
     </header>
   );
