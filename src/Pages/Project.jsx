@@ -1,5 +1,5 @@
 import React from "react";
-import img from "./../img/projects/02-big.jpg";
+
 import BtnGitHub from "../Components/BtnGitHub/BtnGitHub";
 import { useParams } from "react-router-dom";
 import { projectsList } from "../Components/Helpers/projectsList";
