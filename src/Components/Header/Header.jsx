@@ -45,7 +45,7 @@ const Header = () => {
           ></img>
           <span className="LinkedIn">LinkedIn</span> */}
         </div>
-        <div className="carousel w-full overflow-hidden">
+        {/* <div className="carousel w-full overflow-hidden">
           <div id="slide1" className="carousel-item relative w-full ">
             <img
               src={project01}
@@ -93,7 +93,7 @@ const Header = () => {
         </div>
         <a href="projects">
           <h1 className="headingProjects"> Projects</h1>
-        </a>
+        </a> */}
       </div>
     </header>
   );

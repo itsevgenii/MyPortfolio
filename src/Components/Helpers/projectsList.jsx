@@ -7,6 +7,9 @@ import project02Big from "../../img/projects/BonsaiProject2Big.png";
 import project03 from "../../img/projects/03-WeatherChecker.png";
 import project03Big from "../../img/projects/03-WeatherCheckerBig.png";
 
+// import project04 from "../../img/projects/04-Hobi.png";
+// import project04Big from "../../img/projects/04-Hobi.png";
+
 // import project04 from "../../img/projects/04.jpg";
 // import project04Big from "../../img/projects/04-big.jpg";
 
@@ -33,6 +36,14 @@ const projectsList = [
   },
   {
     title: "Weather Checker - Daily, 5 days weather forecast",
+    img: project03Big,
+    imgBig: project03,
+    skills:
+      "Netlify deployment, React, React Routes, Auth0, TypeScript, Liquidity, API fetching",
+    gitHubLink: "https://63aaf2869c74230009e7ced9--itsevgenii.netlify.app",
+  },
+  {
+    title: "Hobi - Daily, 5 days weather forecast",
     img: project03Big,
     imgBig: project03,
     skills:
