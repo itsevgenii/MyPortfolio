@@ -19,7 +19,7 @@ const projectsList = [
     gitHubLink: "https://github.com/itsevgenii/Booki",
   },
   {
-    title: "Bonsai - Bonsai tree making bootcamp",
+    title: "Bonsai - Bonsai tree making bootcamp (under development)",
     img: project02,
     imgBig: project02Big,
     skills: "html, CSS, JS",
