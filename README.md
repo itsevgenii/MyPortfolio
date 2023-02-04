@@ -1,14 +1,17 @@
 # MyPortfolio
 
 
-Personal Portfolio - multi page website created in ReactJS. It contains contact details, summary of technologies that I use and projects that I worked on or am working.
-
 React Hooks used in the project: useContext, useState, useLocalStorage, useEffect
 
 This project is created in ReactJs; the following frameworks were used:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+<img src="https://lh3.googleusercontent.com/suW-8x7DTZGO1PVQk_DyrrrCD_poOsFT-YdJ7-gub2HhBzs5J16l-eOJMd6B8D9cmuFSGn8VZPFOilK5V_wgr_bPQT2RrC5UL4oLTsZeeqxEY8IVeJdTXnZYj3QdoO7QOSMn_OAGAZ-U4k8aWv93j5t35Z0E2XnY3OjwOkzX-ZS4em0zcN9UGE59mTY5R_KEs0rO9yeEsxETPXS5YOWEJDPIGkYGI4POhU308CvPmYEUJVd7h86BJMtY3_H9qznfcxtjvDCJPFGW82HQbOZ0FJ4Kudiu5gG9zrhAvIljQ2xLVXVvkL_1qn3vQwd62uHJIkYWJ5Qe5UgfJFkheelbwJZviUnmNpsHlw39XiSpoh9e_mGHG6rGACKbYr69LQ5EjlalCwsH24ACFMAzRlCNMCVBLDZRcT4SfZV2nm4B4kaUmrHjdesZYymAinqHTXZjp3fw3J6F0Rx-H_m901sl6CcufJJGXYR87O01cQGfoHiokXPXvN_37CfLX8s6d5E7lnJQjSeWlmbcNvuIR9TuvVT4X0o0Wu4jbiIv1DT-WtB1Q_hskNsx8917ZIgDudTiZkQWWqLmElEdV_IRc-TOix2eUnqwhLpdy1LKoG5J6Z9z5OW9yCTYmdmOgVnnPNUQIvSQajsKI0dGI3_rfoeGsyptv5Di-4wPE6XGZJ6rcStYw3FDxC8eM8YVBSnBFfjb1YnLS7BCFu4buuTlNMeA_AYx73mNIafG81FymGJjn2UpdQgSE6G_Plub1q4boq9u4vB-ysyFVzYtCksE94omaWzgmigxGSIBZCsTsDg2bC6x-PiCyM-4PJfTwQ6xmg4-sHuawbCYWyvo2pwOEIcolzWrhsa9mk6EirH5dNcfhnAAtkweK6uTQodvms1F-yAIr6mimL4u5krUCcoPxSZMwv6aPy8hN3QTPFu0e5BtebQ=w2226-h2080-no?authuser=0" alt="portfolio image"/>
+Personal Portfolio - multi page website created in ReactJS. It contains contact details, summary of technologies that I use and projects that I worked on or am working.
+
+
 
 
 # Getting Started
@@ -20,3 +23,5 @@ This project is created in ReactJs; the following frameworks were used:
 
 #The project is deployed on AWS Amplify
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<img src="https://lh3.googleusercontent.com/K003Cc19MfAMdznXUnooh-V47uj8hOetXWdAhZnCh_9HBGXaCp2qDk8Zk9vNdgbbA0eqat2f0r4Kxg30ido8r_7pPNOvP7MgLl1qVkeNa780bVjnjpW1vZDKdXVhHcgYcB2no9FpBeMYB3uFbjlHpCfZEDocTtw24mN2T5tbabkmtJYC_iOD7QPloLdULNZwiAwE-1i8f6Eu6XoB0pZ0EdhkX0I5M2zzwavJ3omCQEUsH8XHJ92NhqDZxX8FN0cT6-MmIwLiAlOamLhoJUm9FuuJgxOYcpCBFa2PLxRR2vn-Ag8bPwzRLfOySQBjnl9NLaMj6br-Ebe7QYzat4hWGCBuIbdICovdwUzfejcLc-AcCoJ8__uxK-1xJ8lG3mFn0v_Abvo8AlNUxLXhPi_Sa-3u53DQKgVs2-Vrh76owOVZ2sP3eaCxfSCcpClyLcK75O0fcP3_8bWedyEgdbXDYTVEndDwrq7Rnz3CShcSg9vKJNwwjE16E6SmDuBeN2EmdQSmYVIWoL9fgBEbxqhttMHZaicAGm9V6rFEj0IO8llYm4e3rg2BqUjIR_t8RFOTYoyF8lvAaW-eg8IFINkpq-jfh1MI5-qKeY7MKkO-GGP1LsHzHxOd4XGPZ0n38EA3oSMkYey8YWQrkeoOAGIiF9FWTeZUD4vz43mX53jPlMcvdeJJkxDKQRM9gsrn2SLidODF_RllqBMCL8P1fH68peSXEHiZ3jbgUcFTp1ApYKzY847kibs6tHJVwnMVVbOKSvss-AoL6dKaL93s79hA5doWd6k_c4hjbz-yq10OoK1aS5X1ldYW6SLUlm34vepUw4268CjD5Q_8pxIzK7Ui5JNkqKrSJ5hd6XFlTiPsKlPrM2ETlv6lo_MU2tr_nNVBfW7BoEiJVGRflLlY4Y9WyLpiyzN-WQUb1RlvcC8VpkA=w1744-h2080-no?authuser=0" alt="portfolio image mobile design"/>
