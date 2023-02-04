@@ -3,7 +3,7 @@
 
 Personal Portfolio - multi page website created in ReactJS. It contains contact details, summary of technologies that I use and projects that I worked on or am working.
 
-React Hooks used in the project: useContext, useState, useLocalStorage
+React Hooks used in the project: useContext, useState, useLocalStorage, useEffect
 
 This project is created in ReactJs; the following frameworks were used:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
